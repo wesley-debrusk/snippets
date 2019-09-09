@@ -1,2 +1,3 @@
 # Game of Life
-Random code snippets from school and other projects
+
+John Conway's Game of Life simulator in C using multithreading
